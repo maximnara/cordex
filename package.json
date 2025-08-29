@@ -1,0 +1,44 @@
+{
+  "name": "cordex",
+  "version": "1.0.0",
+  "description": "Standalone library for managing Cordova plugin development with automated method generation",
+  "main": "cordova-plugin-manager.sh",
+  "bin": {
+    "cordex": "./cordova-plugin-manager.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "manager",
+    "cli",
+    "android",
+    "ios",
+    "javascript",
+    "development"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/cordova-plugin-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/cordova-plugin-manager/issues"
+  },
+  "homepage": "https://github.com/yourusername/cordova-plugin-manager#readme",
+  "preferGlobal": true,
+  "files": [
+    "cordova-plugin-manager.sh",
+    "setup.sh",
+    "add-method.sh",
+    "remove-method.sh",
+    "install.sh",
+    "README.md"
+  ]
+}
