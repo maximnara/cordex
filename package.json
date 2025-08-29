@@ -19,19 +19,19 @@
     "javascript",
     "development"
   ],
-  "author": "Your Name",
+  "author": "maximnara",
   "license": "MIT",
   "engines": {
     "node": ">=12.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/cordova-plugin-manager.git"
+    "url": "git+https://github.com/maximnara/cordova-plugin-manager.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/cordova-plugin-manager/issues"
+    "url": "https://github.com/maximnara/cordova-plugin-manager/issues"
   },
-  "homepage": "https://github.com/yourusername/cordova-plugin-manager#readme",
+  "homepage": "https://github.com/maximnara/cordova-plugin-manager#readme",
   "preferGlobal": true,
   "files": [
     "cordova-plugin-manager.sh",
